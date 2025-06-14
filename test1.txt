@@ -2,5 +2,7 @@
 2.add symbol add panni new repository create after text edahchum kuduthutu commit changes pannita save aaghidum
 3.git download pannanum
 4.open command prompt - type git -some content are showing after set mail user 
+5.git config --global user.name "keerthikaas" -type next
+6.git config --global user.name "keerthikaas" - type next 
 
 creates test1.txt file
